@@ -1,7 +1,9 @@
 # function takes in the name of the month 
-# creates a dictionary with month number as key and names as values
-# then it creates a list out of the dictionary values
-# finally it indexes the list with the name given 
+# creates a dictionary with month number 
+# as key and names as values
+# then it creates a list out of the 
+# dictionary values finally it indexes 
+# the list with the name given 
 
 import calendar
 import datetime
